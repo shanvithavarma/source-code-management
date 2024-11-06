@@ -1,0 +1,11 @@
+initializing the git repository use git init
+checking the status of the repository use git status
+adding fies to the stage git add <filename>
+committing changes use git commit -m "commit message"
+checking the commit history use git log
+undoing changes us git checkout <file-name>
+creating a new branch use git branch<branch-name>
+switching to a diffrent branch use git checkout<branch-name>
+merging two branches use git merge<branch-name>
+cloning a repository fro github use git clone <repository url>
+select the branch you want to merge and click the "new pull request"
